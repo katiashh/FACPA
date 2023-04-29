@@ -3,8 +3,6 @@ Fast Adversarial CNN-based Perturbation Attack on No-Reference Image Quality Met
 
 [[OpenReview.net](https://openreview.net/forum?id=xKf-LSD2-Jg)] [[ArXiv]()]
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
-
 
 Modern neural-network-based no-reference image- and video-quality metrics exhibit performance as high as full-reference metrics. These metrics are widely
 used to improve visual quality in computer vision methods and compare video processing methods. However, these metrics are not stable to traditional adversarial attacks, which can cause incorrect results. Our goal is to investigate the boundaries of no-reference metrics applicability, and in this paper, we propose a
@@ -13,4 +11,26 @@ aid in designing of stable neural-network-based no-reference quality metrics.
 
 ![image](https://drive.google.com/uc?export=view&id=1ym97ObrVcL-Ak9NdpE5OCNXJK7of6Y3o)
 
+## Code
+
+[![FACPA inference code. Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1GM9N23eK5-HZc-TPz6Fyts5NhbAG1OoQ/view?usp=sharing)
+
+[![FACPA training code. Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1gkOi7rT3RG4fE1YwRL0yYjj-azCFwY4k/view?usp=sharing)
+
 [Download pre-trained models](https://drive.google.com/drive/folders/1ei3WdDpSEnLmwvEVmABpBSPXygzVxobu) for attacks on [PaQ-2-PiQ](https://github.com/baidut/paq2piq), [Linearity](https://github.com/lidq92/LinearityIQA), [VSFA](https://github.com/lidq92/VSFA), [MDTVSFA](https://github.com/lidq92/MDTVSFA), [KonCept512](https://github.com/ZhengyuZhao/koniq-PyTorch), [Nima](https://github.com/truskovskiyk/nima.pytorch/tree/v1), and [SPAQ](https://github.com/h4nwei/SPAQ) 
+
+
+
+## Citation
+
+If you use this code for your research, please cite our papers.
+
+```
+@misc{
+shumitskaya2023fast,
+title={Fast Adversarial {CNN}-based Perturbation Attack of No-Reference Image Quality Metrics},
+author={Ekaterina Shumitskaya and Anastasia Antsiferova and Dmitriy S. Vatolin},
+year={2023},
+url={https://openreview.net/forum?id=xKf-LSD2-Jg}
+}
+```
