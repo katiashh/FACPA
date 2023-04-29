@@ -23,7 +23,7 @@ FACPA training code [![FACPA training code. Open In Colab](https://colab.researc
 
 ## Citation
 
-If you use this code for your research, please cite our papers.
+If you use this code for your research, please cite our paper.
 
 ```
 @misc{
