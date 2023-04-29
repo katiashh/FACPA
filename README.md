@@ -13,9 +13,9 @@ aid in designing of stable neural-network-based no-reference quality metrics.
 
 ## Code
 
-[![FACPA inference code. Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1GM9N23eK5-HZc-TPz6Fyts5NhbAG1OoQ/view?usp=sharing)
+FACPA inference code [![FACPA inference code. Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1GM9N23eK5-HZc-TPz6Fyts5NhbAG1OoQ/view?usp=sharing)
 
-[![FACPA training code. Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1gkOi7rT3RG4fE1YwRL0yYjj-azCFwY4k/view?usp=sharing)
+FACPA training code [![FACPA training code. Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1gkOi7rT3RG4fE1YwRL0yYjj-azCFwY4k/view?usp=sharing)
 
 [Download pre-trained models](https://drive.google.com/drive/folders/1ei3WdDpSEnLmwvEVmABpBSPXygzVxobu) for attacks on [PaQ-2-PiQ](https://github.com/baidut/paq2piq), [Linearity](https://github.com/lidq92/LinearityIQA), [VSFA](https://github.com/lidq92/VSFA), [MDTVSFA](https://github.com/lidq92/MDTVSFA), [KonCept512](https://github.com/ZhengyuZhao/koniq-PyTorch), [Nima](https://github.com/truskovskiyk/nima.pytorch/tree/v1), and [SPAQ](https://github.com/h4nwei/SPAQ) 
 
