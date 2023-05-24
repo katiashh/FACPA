@@ -6,7 +6,7 @@ Fast Adversarial CNN-based Perturbation Attack on No-Reference Image Quality Met
 
 Modern neural-network-based no-reference image- and video-quality metrics exhibit performance as high as full-reference metrics. These metrics are widely
 used to improve visual quality in computer vision methods and compare video processing methods. However, these metrics are not stable to traditional adversarial attacks, which can cause incorrect results. Our goal is to investigate the boundaries of no-reference metrics applicability, and in this paper, we propose a
-fast adversarial perturbation attack of no-reference quality metrics. The proposed attack (FACPA) can be exploited as a preprocessing step in real-time video processing and compression algorithms. This research can yield insights to further
+fast adversarial perturbation attack on no-reference quality metrics. The proposed attack (FACPA) can be exploited as a preprocessing step in real-time video processing and compression algorithms. This research can yield insights to further
 aid in designing of stable neural-network-based no-reference quality metrics.
 
 ![image](https://drive.google.com/uc?export=view&id=1ym97ObrVcL-Ak9NdpE5OCNXJK7of6Y3o)
