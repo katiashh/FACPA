@@ -26,11 +26,22 @@ FACPA training code [![FACPA training code. Open In Colab](https://colab.researc
 If you use this code for your research, please cite our paper.
 
 ```
-@misc{
-shumitskaya2023fast,
-title={Fast Adversarial {CNN}-based Perturbation Attack of No-Reference Image Quality Metrics},
-author={Ekaterina Shumitskaya and Anastasia Antsiferova and Dmitriy S. Vatolin},
-year={2023},
-url={https://openreview.net/forum?id=xKf-LSD2-Jg}
+@inproceedings{DBLP:conf/iclr/ShumitskayaAV23,
+  author       = {Ekaterina Shumitskaya and
+                  Anastasia Antsiferova and
+                  Dmitriy S. Vatolin},
+  editor       = {Krystal Maughan and
+                  Rosanne Liu and
+                  Thomas F. Burns},
+  title        = {Fast Adversarial CNN-based Perturbation Attack on No-Reference Image-
+                  and Video-Quality Metrics},
+  booktitle    = {The First Tiny Papers Track at {ICLR} 2023, Tiny Papers @ {ICLR} 2023,
+                  Kigali, Rwanda, May 5, 2023},
+  publisher    = {OpenReview.net},
+  year         = {2023},
+  url          = {https://openreview.net/pdf?id=xKf-LSD2-Jg},
+  timestamp    = {Tue, 18 Jul 2023 16:40:49 +0200},
+  biburl       = {https://dblp.org/rec/conf/iclr/ShumitskayaAV23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
