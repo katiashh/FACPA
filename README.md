@@ -1,7 +1,7 @@
-Fast Adversarial CNN-based Perturbation Attack on No-Reference Image Quality Metrics (ICLR Tiny Papers 2023)
+Fast Adversarial CNN-based Perturbation Attack on No-Reference Image- and Video-Quality Metrics (ICLR Tiny Papers 2023)
 ==============
 
-[[OpenReview.net](https://openreview.net/forum?id=xKf-LSD2-Jg)] [[ArXiv](https://arxiv.org/abs/2305.15544)]
+[[OpenReview.net](https://openreview.net/forum?id=xKf-LSD2-Jg)] [[ArXiv](https://arxiv.org/abs/2305.15544)] [[DBLP](https://dblp.org/rec/conf/iclr/ShumitskayaAV23.html4)]
 
 
 Modern neural-network-based no-reference image- and video-quality metrics exhibit performance as high as full-reference metrics. These metrics are widely
