@@ -11,6 +11,23 @@ aid in designing of stable neural-network-based no-reference quality metrics.
 
 ![image](https://drive.google.com/uc?export=view&id=1ym97ObrVcL-Ak9NdpE5OCNXJK7of6Y3o)
 
+## Results on FullHD videos
+Results of FACPA attack on 10 FullHD videos and 3 attacked video-quality metrics. Metric scores were calculated on compressed videos (x264 codec, preset Medium, crf 16). Clear and attacked videos available [here](https://drive.google.com/drive/folders/1eHUJ-kPCIWQIjieLsAAx0rsLQsmlELrB?usp=drive_link). 
+
+| Video | [Linearity](https://github.com/lidq92/LinearityIQA) clear | [Linearity](https://github.com/lidq92/LinearityIQA) attacked | [VSFA](https://github.com/lidq92/VSFA) clear | [VSFA](https://github.com/lidq92/VSFA) attacked | [MDTVSFA](https://github.com/lidq92/MDTVSFA) clear | [MDTVSFA](https://github.com/lidq92/MDTVSFA) attacked |
+| - | - | - | - | - | - | - |
+| Rush Hour | -67.4 | 201.7 | 0.48 | 1.72 | 0.41 | 0.79 |
+| Blue Sky | -22.0 | 177.3 | 0.58 | 1.43 | 0.53 | 0.78 |
+| Crowd Run | 53.8 | 135.2 | 0.79 |	1.42 | 0.66 | 0.78 |
+| Old Town Cross | 8.9 | 148.9 | 0.72 |	1.37 | 0.58 | 0.79 |
+| Tractor | -14.2 |	145.7 | 0.72 | 1.32 | 0.58 | 0.78 |
+| Pedestrian Area | -40.0 | 192.3 |	0.65 | 1.60	| 0.58 | 0.79 |
+| Controlled Burn | 5.9 | 173.5 | 0.71 | 1.57 | 0.57 | 0.79 |
+| Red Kayak | 16.6 | 162.8 | 0.67 | 1.45 | 0.63 | 0.79 |
+| Ducks | 52.0 | 100.6 | 0.68 | 0.85 | 0.54 | 0.68 |
+| Park | 38.9 | 162.3 |	0.66 | 1.39 | 0.56 | 0.78 |
+
+
 ## Code
 
 FACPA inference code [![FACPA inference code. Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1GM9N23eK5-HZc-TPz6Fyts5NhbAG1OoQ/view?usp=sharing)
