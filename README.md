@@ -3,6 +3,9 @@ Fast Adversarial CNN-based Perturbation Attack on No-Reference Image- and Video-
 
 [[OpenReview.net](https://openreview.net/forum?id=xKf-LSD2-Jg)] [[ArXiv](https://arxiv.org/abs/2305.15544)] [[DBLP](https://dblp.org/rec/conf/iclr/ShumitskayaAV23.html4)]
 
+Updates:
+* Attacked FullHD dataset [added](https://github.com/katiashh/FACPA?tab=readme-ov-file#results-on-fullhd-videos)
+* Paper related to the topic published [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S107731422300293X?via%3Dihub)
 
 Modern neural-network-based no-reference image- and video-quality metrics exhibit performance as high as full-reference metrics. These metrics are widely
 used to improve visual quality in computer vision methods and compare video processing methods. However, these metrics are not stable to traditional adversarial attacks, which can cause incorrect results. Our goal is to investigate the boundaries of no-reference metrics applicability, and in this paper, we propose a
