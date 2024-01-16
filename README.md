@@ -30,7 +30,7 @@ Results of FACPA attack on 10 FullHD videos and 3 attacked video-quality metrics
 | Ducks | 52.0 | 100.6 | 0.68 | 0.85 | 0.54 | 0.68 |
 | Park | 38.9 | 162.3 |	0.66 | 1.39 | 0.56 | 0.78 |
 
-![image](https://drive.google.com/file/d/1KnmBmlVq7Q-c0dyepxMCCDAmFruNJmac/view?usp=drive_link)
+![image](https://drive.google.com/file/d/1KnmBmlVq7Q-c0dyepxMCCDAmFruNJmac)
 
 ## Code
 
